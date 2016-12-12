@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Presentr (1.0.1)
+  - SwiftLocation (1.1.0)
+  - SwiftyJSON (3.1.1)
+  - SwiftyTimer (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Presentr
+  - SwiftLocation
+  - SwiftyJSON
+  - SwiftyTimer
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Presentr: d031e73e45b5fb18e4807e839aafc53b06d65306
+  SwiftLocation: f1bf5acb7992dd96c6f773c383f9c0479f07727d
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+  SwiftyTimer: 2efd74b060d69ad4f1496baf5bbedbe132125fcf
+
+PODFILE CHECKSUM: 4b13ac3e162cb2fe68df67c488625284cee0a063
+
+COCOAPODS: 1.0.1
